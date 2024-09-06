@@ -1,0 +1,15 @@
+F:\Projects\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.deps.json
+F:\Projects\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.dll
+F:\Projects\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.pdb
+F:\Projects\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+F:\Projects\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+F:\Projects\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.AssemblyReference.cache
+F:\Projects\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfoInputs.cache
+F:\Projects\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfo.cs
+F:\Projects\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CoreCompileInputs.cache
+F:\Projects\Business_logic_Layer\obj\Debug\net8.0\Business.B10BAD81.Up2Date
+F:\Projects\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.dll
+F:\Projects\Business_logic_Layer\obj\Debug\net8.0\refint\Business_logic_Layer.dll
+F:\Projects\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.pdb
+F:\Projects\Business_logic_Layer\obj\Debug\net8.0\ref\Business_logic_Layer.dll

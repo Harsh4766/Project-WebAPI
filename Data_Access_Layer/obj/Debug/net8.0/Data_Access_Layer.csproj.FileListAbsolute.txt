@@ -1,0 +1,14 @@
+F:\Projects\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+F:\Projects\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+F:\Projects\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+F:\Projects\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+F:\Projects\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+F:\Projects\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+F:\Projects\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+F:\Projects\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+F:\Projects\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+F:\Projects\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+F:\Projects\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+F:\Projects\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+F:\Projects\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll
